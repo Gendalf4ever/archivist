@@ -1,0 +1,42 @@
+# Config файлы (содержат токены и чувствительные данные)
+config.py
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Текстовые файлы
+*.txt
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+.tmp/
+*.tmp
+
